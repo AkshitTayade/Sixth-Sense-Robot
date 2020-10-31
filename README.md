@@ -7,6 +7,7 @@ Arduino and Python Programming
 * Define the motion of the motors for forward, backwards, left, right, stop
 * Then flash in the code into the arduino
 * Work of arduino is done here !
+* Code can be found [here](https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/Motor_Driver_SerialPort.ino)
 
 <p align="center">
   <img alt="GIF" src="https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/Screenshot%202020-01-03%20at%207.53.56%20PM.png" width=800/>
