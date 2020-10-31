@@ -1,5 +1,7 @@
 # Sixth-Sense-Robot
-Arduino and Python Programming
+<p align='center'>
+     <img alt="GIF" src="https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/main_video.gif" width="800" height="500" />
+</p>
 
 ## Arduino Programming
 * Define the Pins assosicate with motor driver
