@@ -25,6 +25,7 @@ Arduino and Python Programming
 6. Once largest index of contour is found, bound it using an rectangle
 7. Declare a pointer (ie circle) which tracks the co-ordinate system of object during motion
 8. Then compare these co-ordinates with 3x3 matrix, and hence define required movements for the robot
+> Code can be found [here](https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/Final%20program.py)
 
 <p align="center">
   <img alt="GIF" src="https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/Screenshot%202020-01-03%20at%207.54.43%20PM.png" width=800/>
