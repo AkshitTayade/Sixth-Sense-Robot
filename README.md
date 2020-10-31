@@ -35,3 +35,15 @@
   <img alt="GIF" src="https://github.com/AkshitTayade/Sixth-Sense-Robot/blob/master/Screenshot%202020-01-03%20at%207.54.54%20PM.png" width=800/>
 </p>
 
+## Few Tricks in Windows/macOS for configuring Arduino Uno
+* In Windows, Ardunio IDE has direct visibility of the port name.
+* In macOS, As you'll have to put the serial port of arduino into the python programming, you can face a problem of not getting the port name.
+* So type this command in terminal:**ls -1 /dev/tty** - Using this you can find the serial port name!
+
+### Required Libraries in Python:
+ 1. OpenCV
+ 2. Numpy
+ 3. Serial
+ 4. Time
+
+> Once the arduino code in flashed in, close your arduino IDE and run your python file.
